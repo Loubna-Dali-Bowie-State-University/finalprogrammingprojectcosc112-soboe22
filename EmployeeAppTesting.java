@@ -67,6 +67,7 @@ public class EmployeeAppTesting {
         System.out.println("Employee ID: " + employeeId);
         System.out.println("Check-In Time: " + checkInTime);
         System.out.println("Check-Out Time: " + checkOutTime);
+        System.out.println("You Worked: " + shift + "Hours.");
         System.out.println("Shift Salary: " + totalPay);
 
 
